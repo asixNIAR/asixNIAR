@@ -5,3 +5,5 @@ Current on going projects include:
   - VKX Image Processor (reporting tool)
   - SharePoint (project management streamlining)
   - Data Aggregation (data collection tool)
+
+You can reach me with the most ease through my email asix@niar.wichita.edu
